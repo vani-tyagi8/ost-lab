@@ -1,1 +1,4 @@
 This is a sample file for testing Git version control.
+
+Adding a second line to demonstrate version history in Git.
+
